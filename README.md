@@ -1,2 +1,3 @@
-# a-alma-de-nietzsche
-Resumo e resenhas do livro a alma de Nietzsche
+# A alma de Nietzsche
+
+> Estudo sobre o livro a alma de Nietzsche
