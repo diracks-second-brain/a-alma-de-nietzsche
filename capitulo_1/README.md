@@ -6,7 +6,7 @@ O capítulo inicia apresentando a semelhança entre o prefácio de ABM e o pref�
 
 ## 1.1 Primeiro tema: Dogmatismo em seus últimos estertores
 
-### a verdade é fêmea
+### A verdade é fêmea
 
 Esta seção inicia apresentando o significado da provocação de Nietzsche aos filósofos dogmáticos: "Supondo-se que a verdade seja fêmea - quê?".
 
@@ -22,3 +22,5 @@ Kant.
 Kant torna a metafísica feminina e Nietzsche a verdade, porém estão tratando do mesmo assunto.
 
 > Embora Kant torne a metafísica feminina, enquanto feminina para Nietzsche é a verdade que os metafísicos procuram, as metáforas dos dois não são significativamente diferentes, dado que a metafísica é um acervo de (pretensas) verdades metafísicas
+
+> Assim que reconhecemos que Nietzsche está usando "dogmatismo" da mesma forma que Kant, o primeiro tema de seu prefácio parece ser simplesmente uma variação mais brilhante expressa do tema de Kant relativo à situação corrente da filosofia, a saber, a ideia de que as esperanças originais da filosofia não foram realizadas porque a metafísica, a mais elevada das disciplinas filosóficas, não dá mostras de ser capaz de alcançar a meta de conquistar a verdade
