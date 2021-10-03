@@ -11,4 +11,8 @@ __Como a compreensão que Nietzsche tem da alma afeta o modo como ele escreve?__
 > pessoa atua com base nos seus valores, a ordem política dos impulsos mostra eficiência e também, por conseguinte, a vontade de poder dos impulsos. E
 > como a vontade de verdade e a vontade de valor são elas mesmas expressões dos valores de uma pessoa (isto é, do compromisso da pessoa de ver o mundo como
 > ele é, no caso da vontade de verdade, e de ver o mundo como seria bom que fosse, no caso da vontade de valor), a ação de acordo com elas se dá em função
-> dos impulsos expressarem também uma vontade de poder
+> dos impulsos expressarem também uma vontade de poder.
+
+> A contribuição da teoria da alma de Nietzsche para compreendermos por que ele escreve do modo como escreve é a seguinte: a fim de reforçar as vontades
+> de verdade e de valor, ele tem de reforçar a posição política dos impulsos que as constituem. Assim, Nietzsche não pode simplesmente _dizer_ aos leitores
+> para terem vontades de verdade e de valor mais fortes - qualquer tática que não envolva os impulsos é inútil.
