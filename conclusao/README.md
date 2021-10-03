@@ -1,0 +1,14 @@
+# Conclusão
+
+## C.2 Educação e a alma
+
+__Como a compreensão que Nietzsche tem da alma afeta o modo como ele escreve?__
+
+> Recordemos, que para Nietzsche, a alma é a ordem política dos impulsos. É essa ordem que constitui os valores de uma pessoa: é na medida em que a ordem
+> causal dos impulsos se alinha com sua ordem política que uma pessoa age de acordo com seus valores. A eficácia da ordem política - é devida à operação
+> da vontade de poder entre os impulsos. Ou seja, é na medida em que cada um dos impulsos procura alcançar não apenas o próprio objetivo, mas dominar outros
+> impulsos, que eles formam uma unidade política na qual os impulsos não tem apenas poder, mas _autoridade_ e, portanto uma alma. Então, quando uma
+> pessoa atua com base nos seus valores, a ordem política dos impulsos mostra eficiência e também, por conseguinte, a vontade de poder dos impulsos. E
+> como a vontade de verdade e a vontade de valor são elas mesmas expressões dos valores de uma pessoa (isto é, do compromisso da pessoa de ver o mundo como
+> ele é, no caso da vontade de verdade, e de ver o mundo como seria bom que fosse, no caso da vontade de valor), a ação de acordo com elas se dá em função
+> dos impulsos expressarem também uma vontade de poder
