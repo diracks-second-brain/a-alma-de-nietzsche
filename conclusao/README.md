@@ -7,12 +7,11 @@
 - Como deve ser o ensino da filosofia para Nietzsche (pg.287,pg.288)
 - A dialética de Nietzsche, Sócrates e Platão (pg. 288 final, pg.289,pg.292)
 - O arrebatamento erótico (pg.293)
-
-Por que escreve dando atenção à diferença entre o exotérico e o esotérico? (pg.282)
+- Por que escreve dando atenção à diferença entre o exotérico e o esotérico? (pg.282)
 
 ## C.2 Educação e a alma
 
-__Como a compreensão que Nietzsche tem da alma afeta o modo como ele escreve?__
+- [Como a compreensão que Nietzsche tem da alma afeta o modo como ele escreve? (pg.294)](https://github.com/diracks-second-brain/a-alma-de-nietzsche/blob/main/conclusao/c2.md#como-a-compreens%C3%A3o-que-nietzsche-tem-da-alma-afeta-o-modo-como-ele-escreve-pg294)
 
 > Recordemos, que para Nietzsche, a alma é a ordem política dos impulsos. É essa ordem que constitui os valores de uma pessoa: é na medida em que a ordem
 > causal dos impulsos se alinha com sua ordem política que uma pessoa age de acordo com seus valores. A eficácia da ordem política - é devida à operação
